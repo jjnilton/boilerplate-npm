@@ -1,7 +1,7 @@
 {
 	"author": "jj",
 	"description": "Something here...",
-	"keywords": ["ok", "freecodecamp"]
+	"keywords": ["ok", "freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
